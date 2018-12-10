@@ -1,0 +1,31 @@
+Enter the first integer: 2
+Enter the second integer: 20
+Enter the third integer: 4
+
+Sum = 26
+Average = 8
+Smallest number = 2
+Largest number = 20
+
+Would you like to test 3 more integers? (enter 1 for yes and 2 for no)1
+Enter the first integer: 6
+Enter the second integer: 1
+Enter the third integer: 18
+
+Sum = 25
+Average = 8
+Smallest number = 1
+Largest number = 18
+
+Would you like to test 3 more integers? (enter 1 for yes and 2 for no)1
+Enter the first integer: 64
+Enter the second integer: 118
+Enter the third integer: 24
+
+Sum = 206
+Average = 68
+Smallest number = 24
+Largest number = 118
+
+Would you like to test 3 more integers? (enter 1 for yes and 2 for no)2
+Press any key to continue . . .

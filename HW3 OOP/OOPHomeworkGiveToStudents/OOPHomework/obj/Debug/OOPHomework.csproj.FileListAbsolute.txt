@@ -1,0 +1,11 @@
+G:\4143C#\Assignments\Homework\OOPHomework\OOPHomeworkGiveToStudents\OOPHomework\bin\Debug\OOPHomework.exe.config
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\bin\Debug\OOPHomework.exe.config
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\bin\Debug\OOPHomework.exe
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\bin\Debug\OOPHomework.pdb
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\obj\Debug\OOPHomework.csprojAssemblyReference.cache
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\obj\Debug\OOPHomework.EmployeeTestForm.resources
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\obj\Debug\OOPHomework.Properties.Resources.resources
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\obj\Debug\OOPHomework.csproj.GenerateResource.cache
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\obj\Debug\OOPHomework.csproj.CoreCompileInputs.cache
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\obj\Debug\OOPHomework.exe
+E:\C#_Contemp\HW3 OOP\OOPHomeworkGiveToStudents\OOPHomework\obj\Debug\OOPHomework.pdb

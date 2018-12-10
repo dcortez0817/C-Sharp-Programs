@@ -1,0 +1,11 @@
+E:\Program 6\CaterinasPizza\CaterinasPizza\bin\Debug\CaterinasPizza.exe.config
+E:\Program 6\CaterinasPizza\CaterinasPizza\bin\Debug\CaterinasPizza.exe
+E:\Program 6\CaterinasPizza\CaterinasPizza\bin\Debug\CaterinasPizza.pdb
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.csprojAssemblyReference.cache
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.Caterinas.resources
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.Properties.Resources.resources
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.csproj.GenerateResource.cache
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.csproj.CoreCompileInputs.cache
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.exe
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.pdb
+E:\Program 6\CaterinasPizza\CaterinasPizza\obj\Debug\CaterinasPizza.Cart.resources

@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\bin\Debug\BaseballExample.dll.config
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\bin\Debug\BaseballExample.dll
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\bin\Debug\BaseballExample.pdb
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\obj\Debug\BaseballExample.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\obj\Debug\BaseballExample.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\obj\Debug\BaseballExample.csproj.CopyComplete
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\obj\Debug\BaseballExample.dll
+C:\Users\Alex\Documents\Jesse\CS\VisualCSharp-Contemporary-\Program9\BaseballExample\obj\Debug\BaseballExample.pdb
