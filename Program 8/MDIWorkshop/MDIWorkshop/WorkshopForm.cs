@@ -3,8 +3,7 @@
  * Program 8 - MDI workshop
  * This program utilizes multiple document interfaces to display different workshops
  * and its items, item prices, and item quantity. A serializable file (record)
- * is used to allow the user to read in and out data to be stored in files. The program
- * won't let me add a heading.
+ * is used to allow the user to read in and out data to be stored in files.
  ****************************************************************************************/
 using System;
 using System.Collections.Generic;
